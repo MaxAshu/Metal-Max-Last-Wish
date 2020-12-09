@@ -1,20 +1,20 @@
 ﻿Posición 1 - 10 Puntos
-  Arma 1, Objeto 1
+  Objeto 1
 Posición 2 - 10 Puntos
-  Arma 2, Objeto 2, Habilidad 2
+  Objeto 2
 Posición 3 - 10 Puntos
-  Arma 5, Objeto 3, Armadura 4, Habilidad 3
+  Objeto 3
 Posición 4 - 10 Puntos
-  Arma 1, Objeto 1, Armadura 1, Habilidad 1
+  Objeto 1
 Posición 5 - 10 Puntos
-  Arma 1, Objeto 5, Objeto 8, Habilidad 1
+  Objeto 5
 Posición 6 - 10 Puntos
-  Arma 1, Objeto 1, Armadura 8, Habilidad 1
+  Objeto 1
 Posición 7 - 10 Puntos
-  Arma 1, Objeto 1, Armadura 1, Habilidad 1
+  Objeto 1
 Posición 8 - 0 Puntos
   Nada
 Posición 9 - 10 Puntos
-  Arma 1, Objeto 1, Objeto 8, Armadura 1, Habilidad 5
+  Objeto 8
 Posición 10 - 10 Puntos
-  Arma 4, Objeto 1, Objeto 8, Armadura 4, Habilidad 20
+  Objeto 8
